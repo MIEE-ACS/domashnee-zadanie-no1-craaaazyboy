@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace дз1
+namespace DZ1
 {
     class Program
     {
@@ -15,7 +15,7 @@ namespace дз1
 
 
             }
-            double pi = 3.14 ;
+            double pi = 3.14;
             double answer = (pi * alfa) / 180;
             Console.WriteLine($"значение угла в радианах:{string.Format("{0:0.000}", answer)}");
 
